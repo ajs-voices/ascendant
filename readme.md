@@ -36,15 +36,16 @@ Prometheus tries to stop the darkness  hearlded by the thrid ascendant by ending
 ## The Ascendant Plot Points
 
 1. Finds love and safety with his twin flame
-1. Takes in his first stray - a dragon (Drake)
-1. Takes in his brothers after their father dies (Laker and Rider)
-1. Saves his biological children (Cassidy and Hunter) and Matthew Davenport from his demons
-1. Brings a sickly werewolf boy into his care (Faelen)
+1. Makes his own family
 1. Becomes Ascendant and King of New York
-1. "Marries" Alex in a ceremony cementing the bond between the three members of the Third Ascendant's Triumvirate
+1. "Marries" his twin flame in a ceremony cementing the bond between the three members of the Third Ascendant's Triumvirate
 1. The magical conception of their twin children
 1. Tries to stop the world from ending but fails
 1. Hits rock bottom 
 1. With the help of the triumvirate partners his faith is restored 
 1. Defeat the forced ascendant with the sacrifice of the other two prior ascendants
 1. Go head to head with the agent of the umbra
+
+## The Twin Flame Plot Points
+
+1. 
