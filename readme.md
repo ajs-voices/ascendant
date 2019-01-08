@@ -3,7 +3,7 @@
 ## table of contents
 
 ### notes
-[premise](notes/premise.md)
+[premise](notes/premise.md)  
 [plot points](notes/plot-points.md)  
 [character list](notes/character-list.md)
 
