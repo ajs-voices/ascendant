@@ -1,6 +1,6 @@
-# The Ascendant and the End of the World Plot Points
+# The Game of Souls
 
-## The Game of Souls Plot Points
+## The Overarching Plot Points
 
 1. In the beginning there was the umbra, energy representing both order and chaos, and they were bored so they created a game
 1. The playing board was a planet called earth, and humans souls were the currency - whoever had the most souls was winning
@@ -72,7 +72,7 @@
 1. The third ascendant hits rock bottom from a catostrophic failure
 1. With the help of family the triumvirte regains their foothold and come to defeate the agent of the umbra
 
-## The King of New York Plot Points
+## The Kings of New York Plot Points
 
 1. Defeat the Dragon and become his own Dragon Clan
 1. Survive the attempts on his life from his own people
