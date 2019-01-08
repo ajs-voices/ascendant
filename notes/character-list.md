@@ -37,7 +37,7 @@ Virginia "Trix" ??
 
 ## The Triumvirate/Protagonists
 
-The Third Ascendant (Nox Sétanta) 
+The Third Ascendant (Nox Sétanta)  
 The Twin Flame (Alex Kennedy)  
 The Praetorian (Anthony Giovanni II)  
 
