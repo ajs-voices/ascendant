@@ -8,6 +8,8 @@ Three men must unite to fulfill prophecy despite not believing in it.
 
 ### A. The Last Phoenix 
 
+An agent of chaos tries to upheave the human economy disrupting the world in one quick motion, and the prophecized one must stop him.
+
 ### B. The Nightmare's Children
 
 ### C. The First Vestige
