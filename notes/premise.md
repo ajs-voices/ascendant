@@ -22,7 +22,7 @@ The praetorian requires the help of the third ascendant to stop the enforcer fro
 
 In a world of secrets and magic policed by the Venatori, they are not very like, and it is up to the triumvirate to stop the leaders of the creed celestial beings from toppling their empire completely and revealing more than they want to humanity.
 
-## II. The King of New York
+## II. The Bringer of Darkness
 
 The prophecized triumvirate must battle against chaos itself.
 
@@ -38,6 +38,6 @@ New York City is in chaos, and the third ascendant falls into desolation, but wi
 
 While the third ascendant was repairing himself and his city and unconnected from the rest of the world, the dark ascendant gained the trust and faith of the rest world against him, and now he must fight his own sister to make the world see he's on their side and she's not.
 
-### D. The Bringer of Darkness
+### D. The King of New York
 
 Angry at the turn of events Chaos inhabits the dead body of his dark ascendant and confronts the third ascendant and his triumvirate of power in a head to head battle for the world, the game board is New York City - he who wins the city wins the world.
