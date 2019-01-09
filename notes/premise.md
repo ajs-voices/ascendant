@@ -1,6 +1,6 @@
 # The Game of Souls
 
-The Umbra is playing a game of who has the most soul energy.
+Determined to win, Chaos manipulates the game of souls, and it is up to Order's champion to save all life on Earth.
 
 ## I. The Third Ascendant
 
