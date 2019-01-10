@@ -18,18 +18,18 @@
 1. The aeternus breed with humanity and dragons, vampires and therian kill them when procreation begins, even humans mortality rates are low, and the dragons refuse to cooperate
 1. The breeding program dilutes the aeternus' immortaility to nothing and the program stops but only after only a single male aeternus survives
 1. Humanity continues to dwindle and the second ascendant gives humans fire and the power of knowledge teaching them to live on their own
-1. With fire and knowledge as a weapon humanit begins to thrive for millenium
+1. With fire and knowledge as a weapon humanity begins to thrive for millenium
 1. Chaos continues with various plots all failing to humanities ingenuity while Order sits back and watches
 1. As technology takes a foot hold Chaos tries again - leveraging mass destruction and the ability to create havoc easily with their fully connected lives
 1. To stop Chaos, Order embuse a third ascendant as prophecy foretells even knowing that darkness shall reign
 1. All attempts by chaos having failed, chaos takes human forms and becomes a forced ascendant
 1. The being to which the order umbra passed his energy too was with child, twins were born.  The agent of chaos takes one and leaves the other.
 1. Chaos finds himself weak of power, and the girl child of no use.  Chaos leaves the host and confronts Order, order telling his brother only from birth can you control the body.  The agent of chaos is still too weak to pass into another child, so imbuse the stolen child with his umbra 
-1. The dark ascendant is raised by the defiler with only one goal destroy the bringer of darkness (the third ascendant)
-1. The defiler rebels agains the dark ascendant and tries to gain control of the world for his own purpose, but the bringer of darkness destroys his plans
-1. The dark ascendant tries to unites the world against the bringer of darkness after he destroyed the defiler 
+1. The dark ascendant is raised by the defiler with only one goal - destroy the bringer of darkness (the third ascendant)
+1. The defiler rebels against the dark ascendant and tries to gain control of the world for his own purpose, but the bringer of darkness destroys his plans
+1. The dark ascendant unites the world against the bringer of darkness after he destroyed the defiler 
 1. The dark ascendants failure lead to her death, but the body was humming with chaotic energy and Chaos takes over the body
-1. The agent of chaos in the body of the dark ascendant tries to do the job he started by taking on the world's champion himself 
+1. The agent of chaos, in the body of the dark ascendant, tries to do the job he started by taking on the world's champion himself 
 1. The agent of chaos is destroyed returning his energy to the umbra to start the process again
 
 ## New World Order Plot Points
@@ -38,17 +38,26 @@
 1. Valence convinces half the Vamipre Council the New World Order is the winning team
 1. James Wright tries to end the Venatori once and for all
 1. The New World Order tries to stop the world (acoplypse) with a multi tiered attack across the world
-1. Brandon Holt and Salvidor Einor begin ruling the half the world with an iron fist (against the agent of umbra's wishes)
+1. Only New York City was desimated, all other attacks were stopped when Brandon Holt falls
 
 ## Prophecy Plot Points
 
 1. The First Ascendant saves humanity by killing Lilia (Aerin)
 1. The Second Ascendant saves humanity with the gift of fire (Prometheus)
-1. The Third Ascendant is born
-1. Twin Flames reuinited with the Ascendant
-1. Triumvirate of Power felt throughout the world with the union of the praetorian (Ant)
-1. The Triumvirate of the Third Ascendant hearlds the darkness
-1. And with the darkness there is nothing
+1. The Thrid Ascendant hearlds darkness
+
+## The Triumvirate Plot Points
+
+1. The Praetorian is born of wiccan magic
+1. The Twin Flame is born of wiccan blood
+1. The Third Ascendant is born of wiccan blood
+1. The Third Ascendant and Twin Flame are drawn together in Erebus
+1. The Third Ascendant is drawn to the Praetorian
+1. A Misunderstanding separates the Third Ascendant and the Twin Flame but The Praetorian remains at his side
+1. Twin Flame reuinited with the Third Ascendant
+1. The same wiccan ceremony that conceived The Preatorian binds the Thrid Ascendant to his Twin Flame and the Preatorian
+1. Twins are conceived of the wiccan magic
+
 
 ## Prometheus Plot Points
 
@@ -61,24 +70,13 @@
 1. The twin flame uses his favor to make prometheus help the thrid ascendant save the world
 1. Prometheus sacrifices himself to save the third ascendant agaisnt the forced ascendant
 
-## The Triumvirate Points
-
-1. Finds love and safety with his twin flame only to be denies
-1. The third ascendant binds the praetorian to him
-1. The twin flame and the third ascendant are reunited on rocky shores
-1. They make their own family/clan/pack
-1. "Marries" his twin flame in a ceremony cementing the bond between the three members of the Third Ascendant's Triumvirate
-1. The magical conception of their twin children
-1. The third ascendant hits rock bottom from a catostrophic failure
-1. With the help of family the triumvirte regains their foothold and come to defeate the agent of the umbra
-
-## The Kings of New York Plot Points
+## The "King" of the City Points
 
 1. Defeat the Dragon and become his own Dragon Clan
 1. Survive the attempts on his life from his own people
 1. Survive the demon
 1. Save half of the Vampire Council and gain their allegence
 1. Stop the CCB from blowing up the Venatori
-1. Become the most powerful Venatori threw the old ways
+1. Become the most powerful Venatori through the old ways
 1. Create a advising council consisting of all factions including the humans and the city of new york itself
 1. Build a safe haven for all races with the backing of all races
