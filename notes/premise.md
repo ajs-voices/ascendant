@@ -20,7 +20,7 @@ The praetorian requires the help of the third ascendant to stop the enforcer fro
 
 ### D. The Power of Three
 
-In a world of secrets and magic policed by the Venatori, they are not very like, and it is up to the triumvirate to stop the leaders of the creed celestial beings from toppling their empire completely and revealing more than they want to humanity.
+In a world of secrets and magic, policed the despised Venatori, it is up to the triumvirate to stop the leaders of the creed celestial beings from toppling the supernatural world completely and revealing more than they want to humanity.
 
 ## II. The Bringer of Darkness
 
