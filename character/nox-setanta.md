@@ -8,6 +8,201 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 
 ## Description
 
+### Personality
+
+Nox is loud and it can come off as obnoxious. He is almost always ready with a joke or a one liner. He is self-centered, his charm and his attitude tend to get him noticed and he appears to thrive on being center stage. His attitude is infectious but it is also over-the-top and most people tend to take it the wrong way.  He makes more enemies than friends. 
+
+Nox beleives he is not heroic, but his actions speak louder than his words.
+
+Nox enjoys the company of either sex. Despite the numerous conquests he is alone.  In an attempt to keep people at a distance Nox flaunts the "I like men" side of his sexuality.   
+
+His self centered, jovial, obnoxious behavior is a cover for the depressed, anxious and lonilness he feels inside.  
+
+He has a fear of flying, heights/falling and needles and sometimes clowns.  Nox has a mild case of OCD. He uses the OCD to cope with his other issues.  He eats nearly the same thing at the same times, he has a set schedule, his routine is nearly unchanged since he was about 7 years old.
+
+Personality Type: INTJ-T (The Architect) - ?? http://www.16personalities.com/intj-personality
+
+INTP - THE THINKER
+Introverted - Intuition - Thinking - Perceiving
+https://memorado.com/pti_test
+
+Problem:
+Nox's problem is that he has felt like an outcast and unwanted his whole life.
+
+Solution:
+Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
+
+PRIMARY MOTIVATOR
+Primary Motivator - Domesticity, Play,  Education, Adventure, Service, Achievement, Beneficence
+Emotional Disposition - Joyful on the surface (hiding melancholy underneath)
+Moodiness - even-tempered
+
+Core Traits
+Outlook - confident
+Integrity - pragmatic
+Impulsiveness - Spontaneous
+Boldness - daring
+Flexibility - adaptable
+Affinity - self absorbed
+Comportment - charming
+Interactivity - entertaining
+Disclosure - evasive
+Conformity - rebellious
+Sense of Humor - dry
+
+Sexuality
+Sexual Orientation - bisexual
+Libido - lascivious
+Sexual Expressiveness - flirtatious
+Sexual Expressive Style - romantic
+Openness to sexual experience - Moderate
+Promiscuous - non-committal
+Tastes - open minded - try it once then decide philosophy - can't deal with 'hitting' or pain in his sex
+
+RELIGION & SPIRITUALITY
+Adherence - no religion
+
+Other
+* Calls women Duckling - soft, cute and cuddly and usually in need of protection
+* Calls men Cowboy
+
+Quirks, Habits, & Oddities
+- exaggeration / tell stories that aren't true
+- smelling things
+- always has a hoodie with him no matter the weather
+- doesn't like to drive
+- afraid of heights/falling, flying and clowns(minor) amd needles
+- must have coffee first thing in the morning
+- bites his bottom lip
+- has a clearly defined schedule he must stick to
+- works out everyday almost to the point of excess
+- good at puzzles/patterns
+- flirts with everyone
+- has depression due to his insecurities
+- has anxiety issues when things change
+- compensates his issues with a rigid schedule of things (OCD in nature) including (but not limited to) his daily life, what he eats, when he works out, etc
+- insomnia due to excessive nightmares from childhood trauma
+
+Hobbies & Enjoyments - combat/magic training/practice, hunting, dancing, sky jumping, enjoys a beer or three, drawing
+Topics of Conversation:  Sex, Hunts, the Supernatural, Patterns
+
+Mysteries: 
+Existing Conflicts: 
+Quest:
+
+Personality Traits
+TRAITS SCALE TRAITS
+Warm                        0 ----+----- 10 Cold
+Outgoing                    0 -+-------- 10 Shy
+Spender                     0 --+------- 10 Saver
+Optimist                    0 -----+---- 10 Pessimist
+Easily Provoked             0 -----+---- 10 Easy-Going
+Tough-minded                0 ------+--- 10 Tender-hearted
+Leader                      0 --+------- 10 Follower
+Arrogant                    0 -+-------- 10 Humble
+Happy                       0 -------+-- 10 Discontent
+Impulsive                   0 -+-------- 10 Thoughtful
+Conventional                0 ------+--- 10 Radical Thinker
+Emotional                   0 ---+------ 10 Rarely shows emotion
+Perfectionist               0 --+------- 10 Sloppy
+Risk-taker                  0 -+-------- 10 Cautious
+Charismatic                 0 ----+----- 10 Aggravates People
+Late                        0 ------+--- 10 Early for Appointments
+Efficient                   0 ---+------ 10 Inefficient
+Team-oriented               0 -------+-- 10 Prefers to work alone
+Quiet                       0 ------+--- 10 Loud
+Subtle                      0 ------+--- 10 Direct
+Selfish                     0 -+-------- 10 Selfless
+Go-getter                   0 -----+---- 10 Lazy
+Heroic                      0 -+-------- 10 Cowardly
+Takes things at face-value  0 -------+-- 10 Reads between the lines
+Tries to Please People      0 ---------+ 10 Doesn’t Care What Others Think
+Responsible                 0 ---+------ 10 Irresponsible
+Enthusiastic                0 ---+------ 10 Unexcitable
+Systematic                  0 --+------- 10 Scatter-brained
+Happy-Go-Lucky              0 --+------- 10 Serious
+
+Possessions:
+See Pintrest Board
+
+## Nox's Typical Schedule:
+
+**Everyday:**
+4am wake up
+4:30 gym workout
+5:45 shower
+6am breakfast
+11:30 - 12:30 lunch
+6pm evening run
+7:30pm dinner
+11pm bedtime
+
+**Weekdays:**
+8am - 9am Advanced Patterns (class 1) _after LCP_
+1pm - 2pm Fire basics _after LCP_
+2pm - 3pm Fire basics (firestarters) _after LCP_
+
+
+**Monday:**
+9:30am - 10:30 Therapy Session
+
+**Tuesday:**
+4pm - 6pm Advanced Patterns (adult class 1) _after LCP_
+
+**Wednesday:**
+
+**Thursday:**
+4pm - 6pm Advanced Patterns (adult class 1) _after LCP_
+
+**Friday:**
+
+**Saturday:**
+
+**Sunday:**
+9:30am - 10:30 Grocery Shopping
+
+### Meal Plan
+
+Sunday
+* [Tomato Basil Fritatta](http://paleoleap.com/tomato-basil-frittata/)
+* Grilled Chicken salad on rye
+* Steak and roasted seasonal vegetabls
+
+Monday
+* Bacon and Eggs
+* Leftovers from night before (Steak and vegetables)
+* Chicken Stir fry
+
+Tuesday
+* Tomato Basil Fritatta
+* Leftovers from night before (Chicken stir fry)
+* Pot Roast and root vegetables slow cooked with wild rice
+
+Wednesday
+* Bacon and Eggs
+* Left overs from night before (pot roast)
+* Left overs from night before (pot roast)
+
+Thursday
+* Tomato Basil Fritatta
+* Leftovers from night before
+* Baked seasonal fish with seasonal vegetables over white rice
+
+Friday
+* Bacon and Eggs
+* Leftovers from night before
+* Go out to eat night
+
+Saturday
+* Tomato Basil Fritatta
+* Grilled Chicken salad on rye
+* Breakfast for dinner (pancakes, eggs and sausage)
+
+Always on hand for quick lunch
+* Grilled Chicken salad on rye
+* Extra eggs and bacon
+
+
 ### Physical
 
 Nox is 6’0″ weighing approximately 145 lbs with a hard to maintain thin athletic build. He has chestnut brown hair with chocolate brown eyes framed with a thick set of eye lashes any woman would die for. He tends to have a few days growth beard mustache carefully managed. Nox almost always has a playful grin plastered on his lips, like everything’s a joke to him.
@@ -20,11 +215,11 @@ Nox’s body is host to a few scars he’s more than willing to tell you a false
 
 Nox has a delicate black ink dragon he calls 'Mushu' at the back of his neck just below the base of his skull. During his Ad Aetatem Nox received his tribal tattoo – a pair of crossed swords at his right temple.
 
-### Personality
-
 ## History
 
-### The Beginning
+### The Beginning 
+
+__Need to update__  
 
 Nox’s mother, Leanne Sétanta, was a human Venatori hunter, her parents were killed by a rogue werewolf when she was a baby. The Venatori who found her crying and starving in their cabin in the Colorado woods took her in and raised her as one of her own and taught her the way of the Venatori.
 
