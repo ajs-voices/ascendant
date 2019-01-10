@@ -76,6 +76,7 @@ Dominic Olmos
 Liam ??  
 Abby ??  
 Val ??  
+Faelen Taylor  
 
 ## Humans
 
@@ -118,8 +119,6 @@ Armande ??
 Bernstein  
 Chris ??  
 Avery ??  
-Faelen Taylor  
-
 
 
  
