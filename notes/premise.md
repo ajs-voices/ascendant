@@ -4,11 +4,11 @@ Determined to win, Chaos manipulates the game of souls, and it is up to Order's 
 
 ## I. The Third Ascendant
 
-An outcast of his own people struggles to become the third ascendant and part of the prophecized triumvirate.
+An outcast struggles to find himself, but with the help of two others he fulfills his destiny and becomes the third ascendant.
 
 ### A. The Last Phoenix 
 
-The third ascendant struggles to survive his own life while battling an agent of chaos and his minions as they try to disrupt the world economy.
+The third ascendant meets his twin flame while trying to battle an agent of chaos and his minions as they try to disrupt the world economy.
 
 ### B. The Nightmare's Children
 
