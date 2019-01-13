@@ -1,0 +1,2381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AeonTimeline AppVersion="1.1.11" AppPlatform="Windows" FileVersion="19">
+	<Calendar>
+		<CalendarName>BC - AD</CalendarName>
+		<CalendarDescription>A standard Western calendar spanning BC and AD eras. Sunday is the first day of the week.</CalendarDescription>
+		<HoursInDay>24</HoursInDay>
+		<Weekdays>
+			<Weekday Index="0">
+				<WeekdayName>Sunday</WeekdayName>
+				<WeekdayShortName>Sun</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="1">
+				<WeekdayName>Monday</WeekdayName>
+				<WeekdayShortName>Mon</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="2">
+				<WeekdayName>Tuesday</WeekdayName>
+				<WeekdayShortName>Tue</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="3">
+				<WeekdayName>Wednesday</WeekdayName>
+				<WeekdayShortName>Wed</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="4">
+				<WeekdayName>Thursday</WeekdayName>
+				<WeekdayShortName>Thu</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="5">
+				<WeekdayName>Friday</WeekdayName>
+				<WeekdayShortName>Fri</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="6">
+				<WeekdayName>Saturday</WeekdayName>
+				<WeekdayShortName>Sat</WeekdayShortName>
+			</Weekday>
+		</Weekdays>
+		<Months>
+			<Month Index="0">
+				<MonthName>January</MonthName>
+				<MonthShortName>Jan</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="1">
+				<MonthName>February</MonthName>
+				<MonthShortName>Feb</MonthShortName>
+				<MonthDuration>28</MonthDuration>
+				<MonthLeapDuration>29</MonthLeapDuration>
+			</Month>
+			<Month Index="2">
+				<MonthName>March</MonthName>
+				<MonthShortName>Mar</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="3">
+				<MonthName>April</MonthName>
+				<MonthShortName>Apr</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="4">
+				<MonthName>May</MonthName>
+				<MonthShortName>May</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="5">
+				<MonthName>June</MonthName>
+				<MonthShortName>Jun</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="6">
+				<MonthName>July</MonthName>
+				<MonthShortName>Jul</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="7">
+				<MonthName>August</MonthName>
+				<MonthShortName>Aug</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="8">
+				<MonthName>September</MonthName>
+				<MonthShortName>Sep</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="9">
+				<MonthName>October</MonthName>
+				<MonthShortName>Oct</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="10">
+				<MonthName>November</MonthName>
+				<MonthShortName>Nov</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="11">
+				<MonthName>December</MonthName>
+				<MonthShortName>Dec</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+		</Months>
+		<Eras>
+			<Era Index="0">
+				<EraName>BC</EraName>
+				<EraShortName>BC</EraShortName>
+				<EraDuration>9223372036854775807</EraDuration>
+				<EraIsBackwards>1</EraIsBackwards>
+				<EraHasLeapYears>0</EraHasLeapYears>
+				<EraFirstDayOfWeekIndex>0</EraFirstDayOfWeekIndex>
+			</Era>
+			<Era Index="1">
+				<EraName>AD</EraName>
+				<EraShortName>AD</EraShortName>
+				<EraDuration>9223372036854775807</EraDuration>
+				<EraIsBackwards>0</EraIsBackwards>
+				<EraHasLeapYears>1</EraHasLeapYears>
+				<EraFirstDayOfWeekIndex>1</EraFirstDayOfWeekIndex>
+			</Era>
+		</Eras>
+		<ZeroDate>1 2006 1 1 00 00 00</ZeroDate>
+		<CalendarType>0</CalendarType>
+		<MaximumPrecision>8</MaximumPrecision>
+	</Calendar>
+	<TimelineStartDate>1 1954 8 15 00 00 00</TimelineStartDate>
+	<TimelineEndDate>1 2016 7 11 02 16 00</TimelineEndDate>
+	<DefaultLabel>Out of Story Events</DefaultLabel>
+	<DefaultEntityType>Person</DefaultEntityType>
+	<EntityTypes>
+		<EntityType Name="Person">
+			<CreateNoun>Birth</CreateNoun>
+			<CreateVerb>born</CreateVerb>
+			<DestroyNoun>Death</DestroyNoun>
+			<DestroyVerb>died</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Organisation">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>founded</CreateVerb>
+			<DestroyNoun>End</DestroyNoun>
+			<DestroyVerb>closed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Object">
+			<CreateNoun>Create</CreateNoun>
+			<CreateVerb>created</CreateVerb>
+			<DestroyNoun>Destroy</DestroyNoun>
+			<DestroyVerb>destroyed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Place">
+			<CreateNoun>Create</CreateNoun>
+			<CreateVerb>created</CreateVerb>
+			<DestroyNoun>Destroy</DestroyNoun>
+			<DestroyVerb>destroyed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Project">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>started</CreateVerb>
+			<DestroyNoun>Finish</DestroyNoun>
+			<DestroyVerb>finished</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Technology">
+			<CreateNoun>Invent</CreateNoun>
+			<CreateVerb>invented</CreateVerb>
+			<DestroyNoun>Abandon</DestroyNoun>
+			<DestroyVerb>abandoned</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Theory">
+			<CreateNoun>Invent</CreateNoun>
+			<CreateVerb>invented</CreateVerb>
+			<DestroyNoun>Abandon</DestroyNoun>
+			<DestroyVerb>abandoned</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Time Span">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>started</CreateVerb>
+			<DestroyNoun>Finish</DestroyNoun>
+			<DestroyVerb>finished</DestroyVerb>
+		</EntityType>
+	</EntityTypes>
+	<Entities>
+		<Entity Name="Abraham Morgan">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.290196 0.000000 0.215686 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Aidan Row">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.070588 0.262745 0.439216 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Asher Eriksen">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.070588 0.262745 0.439216 1.000000</Colour>
+			<AgeAtFirstEvent Units="years">29</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Dakota Vega">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>0</Visible>
+			<Colour>0.000000 0.388235 0.254902 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Dorian Vega">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.000000 0.000000 0.498039 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Drake">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.501961 0.000000 0.003922 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Garrett Spencer">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.501961 0.000000 0.003922 1.000000</Colour>
+			<AgeAtFirstEvent Units="years">22</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Kai Viddens">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.333333 0.000000 0.498039 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Leanna Sétanta">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>0</Visible>
+			<Colour>0.400000 0.278431 0.000000 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Levi Hughes">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.400000 0.278431 0.000000 1.000000</Colour>
+			<AgeAtFirstEvent Units="years">16</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Nox Sétanta">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.666667 0.000000 0.000000 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Stella Row">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.290196 0.000000 0.215686 1.000000</Colour>
+			<AgeAtFirstEvent Units="years">20</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Hayden Sétanta">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.501961 0.000000 0.003922 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Hunter Sétana">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.000000 0.388235 0.254902 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Quinn Dowager">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.070588 0.262745 0.439216 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+	</Entities>
+	<Arcs>
+		<Arc Name="Out of Story Events">
+			<Description>Global events applicable across all arcs</Description>
+			<ArcIsGlobal>1</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="Future Events">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="Like Chess Pieces">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="Ascendant">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="Villianous Plots">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+	</Arcs>
+	<Events>
+		<Event ID="10" Locked="0">
+			<EventTitle>Kai Viddens born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1954 8 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="11" Locked="0">
+			<EventTitle>Leanna Sétanta born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1969 3 16 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label> Unkown Events (at this time)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="18" Locked="0">
+			<EventTitle>Kai's Ad Aetatem</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1973 5 27 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="27" Locked="0">
+			<EventTitle>Sahara born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1974 4 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="36" Locked="0">
+			<EventTitle>Iris Viddens was born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1974 6 23 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="28" Locked="0">
+			<EventTitle>Eli Vega Born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1976 6 25 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="37" Locked="0">
+			<EventTitle>Adam Viddens was born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1976 9 3 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="3" Locked="0">
+			<EventTitle>Dorian Vega born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1979 5 6 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="38" Locked="0">
+			<EventTitle>Tobias Viddens was Born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1980 3 30 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="19" Locked="0">
+			<EventTitle>Karla Cox exiled by Kai and Emilio</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1980 9 24 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="20" Locked="0">
+			<EventTitle>Abraham Morgan born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1982 6 26 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label> Unkown Events (at this time)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Abraham Morgan</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="39" Locked="0">
+			<EventTitle>Marius Viddens was born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1984 2 14 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="14" Locked="0">
+			<EventTitle>Asher Eriksen Identity born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1986 4 8 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="13" Locked="0">
+			<EventTitle>Kai and Leanna meet</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1992 12 9 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="2" Locked="0">
+			<EventTitle>Nox Sétanta born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1993 9 23 12 03 55</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="40" Locked="0">
+			<EventTitle>Nicholas Hampton (Viddens) is born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1993 12 23 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="48" Locked="0">
+			<EventTitle>Stella born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1995 3 17 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Stella Row</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="7" Locked="0">
+			<EventTitle>Dorian's Ad Aetatem</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1997 5 24 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="4" Locked="0">
+			<EventTitle>Nox sparked</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1998 10 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="5" Locked="0">
+			<EventTitle>Nox flew to NYC to the Academy</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1998 10 16 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="23" Locked="0">
+			<EventTitle>Nox Meets Garrett</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 1998 10 19 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="24" Locked="0">
+			<EventTitle>Nox 'accidentally' sparks on Garrett</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2000 5 19 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="33" Locked="0">
+			<EventTitle>Nox meets Dr. Margo Silverman for the first time</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2000 5 22 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="34" Locked="0">
+			<EventTitle>Nox's creates status becoming Cesari</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2004 4 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="35" Locked="0">
+			<EventTitle>Nox's skill becomes Adept</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2004 5 28 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="17" Locked="0">
+			<EventTitle>Ember Eriksen born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2011 4 8 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="16" Locked="0">
+			<EventTitle>Asher Eriksen makes first public apperance as CEO of Apex Unlimited</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2011 5 2 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="43" Locked="0">
+			<EventTitle>Drake born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2012 1 26 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="9" Locked="0">
+			<EventTitle>Nox Meets his father for the first time</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2012 5 24 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="8" Locked="0">
+			<EventTitle>Nox's Ad Aetatem</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2012 5 25 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">1</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="29" Locked="0">
+			<EventTitle>Nox takes on possessed ghost</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2012 6 5 00 00 00</StartDate>
+			<Description>Gets scar on his cheek</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="46" Locked="0">
+			<EventTitle>Aidan Row born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2013 3 6 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Aidan Row</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="32" Locked="0">
+			<EventTitle>Nox takes on a vampire</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2013 5 26 00 00 00</StartDate>
+			<Description>Gets scar on his right forearm</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="30" Locked="0">
+			<EventTitle>Nox takes on Dragon</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2013 10 15 00 00 00</StartDate>
+			<Description>Gets Burn</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="31" Locked="0">
+			<EventTitle>Nox recovering from burn</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2013 10 16 00 00 00</StartDate>
+			<Description>Out of Commission</Description>
+			<Duration Unit="Month">3</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="12" Locked="0">
+			<EventTitle>Nox's mother dies by werebear</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2014 1 26 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Leanna Sétanta</Entity>
+					<ParticipationLevel>3</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="21" Locked="0">
+			<EventTitle>Asher meets Abraham</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2014 11 6 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Abraham Morgan</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="15" Locked="0">
+			<EventTitle>Asher insights Dragons</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 1 6 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="22" Locked="0">
+			<EventTitle>Abraham meets Levi</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 1 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Abraham Morgan</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi Hughes</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="95" Locked="0">
+			<EventTitle>Anabel fertile</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 12 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">5</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="6" Locked="0">
+			<EventTitle>Nox confronts Naomi</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 13 19 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Like Chess Pieces</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="47" Locked="0">
+			<EventTitle>Nox meets Stella &amp; Aidan</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 07 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Like Chess Pieces</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Aidan Row</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Stella Row</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="59" Locked="0">
+			<EventTitle>Stella gets the job</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Like Chess Pieces</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="25" Locked="0">
+			<EventTitle>Kai confront Garrett and Exiles him</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 10 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Like Chess Pieces</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="41" Locked="0">
+			<EventTitle>Kai wakes up</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 17 09 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Like Chess Pieces</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="50" Locked="0">
+			<EventTitle>Nox moved in with Kai</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 18 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="60" Locked="0">
+			<EventTitle>Aidan &amp; Stella Move to NYC</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 23 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Aidan Row</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Stella Row</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="71" Locked="0">
+			<EventTitle>Garrett starts making noise about the Venatori</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 24 10 00 00</StartDate>
+			<Description>Claimes he did nothing wrong and was exiled for it.</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="52" Locked="0">
+			<EventTitle>Kai meets with Dr. Silverman</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 24 12 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="49" Locked="0">
+			<EventTitle>Nox signs breeding program contract</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 27 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="51" Locked="0">
+			<EventTitle>Meet April</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 28 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="58" Locked="0">
+			<EventTitle>Nox's starts teaching</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 29 00 00 00</StartDate>
+			<Description>Teaching two classes: Advanced Patterns for highschool + students and Fire basics (specializing in firestarters)
+
+On top of other duties - working with Dae'lin/Gary on unsolved/in progress cases to help out
+
+Kai intends to take him out on local hunts</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="61" Locked="0">
+			<EventTitle>Stella starts working for Dae'lin</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 29 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Stella Row</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="105" Locked="0">
+			<EventTitle>Finds Kai kissing Margo good-bye</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 29 09 25 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="92" Locked="0">
+			<EventTitle>Dae'lin fertile</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 30 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">5</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="26" Locked="0">
+			<EventTitle>Asher contacts Garrett</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 1 00 00 00</StartDate>
+			<Description>Asher gets Garrett to work for him as a grunt for him personally so Garrett can fullfil his plan to torment and control Nox (Asher wants to control this boy through Garrett)</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Asher Eriksen</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="66" Locked="0">
+			<EventTitle>Garrett hires a PI to follow Nox around</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 3 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="72" Locked="0">
+			<EventTitle>Garrett purposefully runs into Nox</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 6 10 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="42" Locked="0">
+			<EventTitle>Nox Runs into Garrett</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 6 10 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Garrett Spencer</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="84" Locked="0">
+			<EventTitle>Garrett runs into Stella and asks her out for dinner</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 6 13 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="80" Locked="0">
+			<EventTitle>Stella meets a guy and he asks her out on a date</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 6 13 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="83" Locked="0">
+			<EventTitle>Garrett runs into Nox after his morning gym workout</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 7 05 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="73" Locked="0">
+			<EventTitle>Garrett runs into Nox after his morning gym workout</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 7 05 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="85" Locked="0">
+			<EventTitle>Garrett runs into Nox after his evening run</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 9 18 45 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="74" Locked="0">
+			<EventTitle>Garrett runs into Nox after his evening run</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 9 18 45 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="93" Locked="0">
+			<EventTitle>Anabel fertile</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 10 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">5</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="75" Locked="0">
+			<EventTitle>Garrett runs into Nox during his lunch alone</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 10 12 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="86" Locked="0">
+			<EventTitle>Garrett runs into Nox during his lunch alone</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 10 12 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="79" Locked="0">
+			<EventTitle>Garrett takes Stella out to dinner</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 11 19 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="81" Locked="0">
+			<EventTitle>Stella goes out on a date Nox/Dorian watch Aidan</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 11 19 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="76" Locked="0">
+			<EventTitle>Garrett runs into Nox while he's grocery shopping</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 12 10 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="87" Locked="0">
+			<EventTitle>Garrett runs into Nox while he's grocery shopping</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 12 10 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="102" Locked="0">
+			<EventTitle>Anabel conception #1</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 13 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="77" Locked="0">
+			<EventTitle>Garrett Runs into Nox after a jump</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 13 21 10 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="88" Locked="0">
+			<EventTitle>Garrett Runs into Nox after a jump</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 13 21 10 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="82" Locked="0">
+			<EventTitle>Garrett asks Stella to ask Nox over</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 15 19 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (written)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="89" Locked="0">
+			<EventTitle>Garrett asks Stella to ask Nox over</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 15 19 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Villanous Events</Label>
+			<Arc>Villianous Plots</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="44" Locked="0">
+			<EventTitle>Successful Implantation of embryo (Dorian's progeny)</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 18 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>In Story Events (not written explicitly)</Label>
+			<Arc>Ascendant</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="90" Locked="0">
+			<EventTitle>Dae'lin fertile</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 28 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">5</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="53" Locked="0">
+			<EventTitle>Naomi and partner convicted and executed</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 8 13 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="54" Locked="0">
+			<EventTitle>Drake is in foster care under the Venatori waiting DHS settlement</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 8 17 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="57" Locked="0">
+			<EventTitle>Nox &amp; Dorian begin fostering Drake</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 8 19 00 00 00</StartDate>
+			<Description>Drake is a fire-starter.  Nox is helping him &amp; he is staying in the dorms.</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="91" Locked="0">
+			<EventTitle>Dae'lin fertile</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 8 25 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Day">5</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="96" Locked="0">
+			<EventTitle>Dae'lin #1 conception date</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 8 28 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="55" Locked="0">
+			<EventTitle>DHS closed Drake's case</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 9 16 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="56" Locked="0">
+			<EventTitle>Nox &amp; Dorian adopt Drake (Nox's birthday)</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>0</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 9 23 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="104" Locked="0">
+			<EventTitle>Quinn Dowager born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2016 4 23 02 16 00</StartDate>
+			<Description>10 days late</Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Quinn Dowager</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="45" Locked="0">
+			<EventTitle>Dakota Vega born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2016 4 23 16 01 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Future Events</Label>
+			<Arc>Future Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Aidan Row</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Dakota Vega</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Dorian Vega</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Drake</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai Viddens</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox Sétanta</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="98" Locked="0">
+			<EventTitle>Hayden Sétanta born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2016 6 3 15 28 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Hayden Sétanta</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="99" Locked="0">
+			<EventTitle>Hunter Sétanta born</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2016 6 3 15 35 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Out of Story Events</Label>
+			<Arc>Out of Story Events</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Hunter Sétana</Entity>
+					<ParticipationLevel>4</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+	</Events>
+	<Labels>
+		<Label Name="Out of Story Events">
+			<Color>0.501961 0.000000 0.003922 1.000000</Color>
+		</Label>
+		<Label Name="Villanous Events">
+			<Color>0.000000 0.388235 0.254902 1.000000</Color>
+		</Label>
+		<Label Name="In Story Events (written)">
+			<Color>0.070588 0.262745 0.439216 1.000000</Color>
+		</Label>
+		<Label Name="In Story Events (not written explicitly)">
+			<Color>0.290196 0.000000 0.215686 1.000000</Color>
+		</Label>
+		<Label Name=" Unkown Events (at this time)">
+			<Color>0.400000 0.278431 0.000000 1.000000</Color>
+		</Label>
+		<Label Name="Future Events">
+			<Color>0.600000 0.098039 0.031373 1.000000</Color>
+		</Label>
+	</Labels>
+	<Tags></Tags>
+	<Narratives></Narratives>
+	<SavedFilters></SavedFilters>
+	<CurrentFilter>
+		<SavedFilter Name="AeonCurrent">
+			<BooleanLogic>AND</BooleanLogic>
+			<RequireAllEntities>1</RequireAllEntities>
+			<RequireAllTags>1</RequireAllTags>
+			<Labels></Labels>
+			<Arcs></Arcs>
+			<Entities></Entities>
+			<Tags></Tags>
+			<Completed>-1</Completed>
+		</SavedFilter>
+	</CurrentFilter>
+	<UIState>
+		<DictionaryItem>
+			<key>AeonAddEventShowDaySelected</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonAddEventShowMonthSelected</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonAddEventShowTimeSelected</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateFormatPreference</key>
+			<value type="number">2</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateFormatString</key>
+			<value type="string">%d %B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateOnlyFormatString</key>
+			<value type="string">%d %B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayAges</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayFontName</key>
+			<value type="string">Arial</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayFontSize</key>
+			<value type="number">12</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawEventLinesRelationshipOff</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawEventLinesRelationshipOn</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawExternalLinkIcons</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawLongEventsAtTop</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonEventFlow</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonEventLineBoldHighlight</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonExternalLinkIconSize</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFilterVisible</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingDayFormatString</key>
+			<value type="string">Day %z, %I:%M%p</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingDayNoTimeFormatString</key>
+			<value type="string">Day %z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingWeekDayFormatString</key>
+			<value type="string">%a %I:%M%p Week %Z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingWeekDayNoTimeFormatString</key>
+			<value type="string">%a Week %Z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonGroupByArcs</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonIndicateEntityLifetime</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonInspectorVisible</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonInspectorWidth</key>
+			<value type="number">300</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonLargeTextSize</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMainScrollPosition</key>
+			<value type="number">955954</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMainScrollYPosition</key>
+			<value type="number">-21</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMonthBeforeDay</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMonthOnlyFormatString</key>
+			<value type="string">%B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonNextEntityColour</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonNextLabelColour</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonRelationshipsHeight</key>
+			<value type="number">200</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonRelationshipsVisible</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonUnitsPerPixel</key>
+			<value type="number">33.489798</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWindowsMainWindowFrame</key>
+			<value type="rect">0.000000 22.000000 1440.000000 838.000000</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWindowsMainWindowMaximized</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWordWrap</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWordWrapWidth</key>
+			<value type="number">300</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonYearOnlyFormatString</key>
+			<value type="string">%G</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonZeroHourFormatString</key>
+			<value type="string">%x:%v:%u</value>
+		</DictionaryItem>
+	</UIState>
+</AeonTimeline>

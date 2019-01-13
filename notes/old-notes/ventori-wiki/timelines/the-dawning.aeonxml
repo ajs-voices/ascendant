@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AeonTimeline AppVersion="1.1.11" AppPlatform="Windows" FileVersion="19">
+	<Calendar>
+		<CalendarName>BC - AD</CalendarName>
+		<CalendarDescription>A standard Western calendar spanning BC and AD eras. Sunday is the first day of the week.</CalendarDescription>
+		<HoursInDay>24</HoursInDay>
+		<Weekdays>
+			<Weekday Index="0">
+				<WeekdayName>Sunday</WeekdayName>
+				<WeekdayShortName>Sun</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="1">
+				<WeekdayName>Monday</WeekdayName>
+				<WeekdayShortName>Mon</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="2">
+				<WeekdayName>Tuesday</WeekdayName>
+				<WeekdayShortName>Tue</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="3">
+				<WeekdayName>Wednesday</WeekdayName>
+				<WeekdayShortName>Wed</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="4">
+				<WeekdayName>Thursday</WeekdayName>
+				<WeekdayShortName>Thu</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="5">
+				<WeekdayName>Friday</WeekdayName>
+				<WeekdayShortName>Fri</WeekdayShortName>
+			</Weekday>
+			<Weekday Index="6">
+				<WeekdayName>Saturday</WeekdayName>
+				<WeekdayShortName>Sat</WeekdayShortName>
+			</Weekday>
+		</Weekdays>
+		<Months>
+			<Month Index="0">
+				<MonthName>January</MonthName>
+				<MonthShortName>Jan</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="1">
+				<MonthName>February</MonthName>
+				<MonthShortName>Feb</MonthShortName>
+				<MonthDuration>28</MonthDuration>
+				<MonthLeapDuration>29</MonthLeapDuration>
+			</Month>
+			<Month Index="2">
+				<MonthName>March</MonthName>
+				<MonthShortName>Mar</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="3">
+				<MonthName>April</MonthName>
+				<MonthShortName>Apr</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="4">
+				<MonthName>May</MonthName>
+				<MonthShortName>May</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="5">
+				<MonthName>June</MonthName>
+				<MonthShortName>Jun</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="6">
+				<MonthName>July</MonthName>
+				<MonthShortName>Jul</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="7">
+				<MonthName>August</MonthName>
+				<MonthShortName>Aug</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="8">
+				<MonthName>September</MonthName>
+				<MonthShortName>Sep</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="9">
+				<MonthName>October</MonthName>
+				<MonthShortName>Oct</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+			<Month Index="10">
+				<MonthName>November</MonthName>
+				<MonthShortName>Nov</MonthShortName>
+				<MonthDuration>30</MonthDuration>
+				<MonthLeapDuration>30</MonthLeapDuration>
+			</Month>
+			<Month Index="11">
+				<MonthName>December</MonthName>
+				<MonthShortName>Dec</MonthShortName>
+				<MonthDuration>31</MonthDuration>
+				<MonthLeapDuration>31</MonthLeapDuration>
+			</Month>
+		</Months>
+		<Eras>
+			<Era Index="0">
+				<EraName>BC</EraName>
+				<EraShortName>BC</EraShortName>
+				<EraDuration>9223372036854775807</EraDuration>
+				<EraIsBackwards>1</EraIsBackwards>
+				<EraHasLeapYears>0</EraHasLeapYears>
+				<EraFirstDayOfWeekIndex>0</EraFirstDayOfWeekIndex>
+			</Era>
+			<Era Index="1">
+				<EraName>AD</EraName>
+				<EraShortName>AD</EraShortName>
+				<EraDuration>9223372036854775807</EraDuration>
+				<EraIsBackwards>0</EraIsBackwards>
+				<EraHasLeapYears>1</EraHasLeapYears>
+				<EraFirstDayOfWeekIndex>1</EraFirstDayOfWeekIndex>
+			</Era>
+		</Eras>
+		<ZeroDate>1 2006 1 1 00 00 00</ZeroDate>
+		<CalendarType>0</CalendarType>
+		<MaximumPrecision>8</MaximumPrecision>
+	</Calendar>
+	<TimelineStartDate>1 2013 3 1 00 00 00</TimelineStartDate>
+	<TimelineEndDate>1 2015 7 22 09 00 00</TimelineEndDate>
+	<DefaultLabel>Main</DefaultLabel>
+	<DefaultEntityType>Person</DefaultEntityType>
+	<EntityTypes>
+		<EntityType Name="Person">
+			<CreateNoun>Birth</CreateNoun>
+			<CreateVerb>born</CreateVerb>
+			<DestroyNoun>Death</DestroyNoun>
+			<DestroyVerb>died</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Organisation">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>founded</CreateVerb>
+			<DestroyNoun>End</DestroyNoun>
+			<DestroyVerb>closed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Object">
+			<CreateNoun>Create</CreateNoun>
+			<CreateVerb>created</CreateVerb>
+			<DestroyNoun>Destroy</DestroyNoun>
+			<DestroyVerb>destroyed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Place">
+			<CreateNoun>Create</CreateNoun>
+			<CreateVerb>created</CreateVerb>
+			<DestroyNoun>Destroy</DestroyNoun>
+			<DestroyVerb>destroyed</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Project">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>started</CreateVerb>
+			<DestroyNoun>Finish</DestroyNoun>
+			<DestroyVerb>finished</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Technology">
+			<CreateNoun>Invent</CreateNoun>
+			<CreateVerb>invented</CreateVerb>
+			<DestroyNoun>Abandon</DestroyNoun>
+			<DestroyVerb>abandoned</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Theory">
+			<CreateNoun>Invent</CreateNoun>
+			<CreateVerb>invented</CreateVerb>
+			<DestroyNoun>Abandon</DestroyNoun>
+			<DestroyVerb>abandoned</DestroyVerb>
+		</EntityType>
+		<EntityType Name="Time Span">
+			<CreateNoun>Start</CreateNoun>
+			<CreateVerb>started</CreateVerb>
+			<DestroyNoun>Finish</DestroyNoun>
+			<DestroyVerb>finished</DestroyVerb>
+		</EntityType>
+	</EntityTypes>
+	<Entities>
+		<Entity Name="Nox">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.501961 0.000000 0.003922 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Levi">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.000000 0.388235 0.254902 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Dorian">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.070588 0.262745 0.439216 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Kai">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.290196 0.000000 0.215686 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+		<Entity Name="Dae'lin">
+			<Notes></Notes>
+			<EntityType>Person</EntityType>
+			<Visible>1</Visible>
+			<Colour>0.400000 0.278431 0.000000 1.000000</Colour>
+			<AgeAtFirstEvent Units="days">-1</AgeAtFirstEvent>
+		</Entity>
+	</Entities>
+	<Arcs>
+		<Arc Name="Before Story">
+			<Description></Description>
+			<ArcIsGlobal>1</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="In Story">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+		<Arc Name="Epilogue">
+			<Description></Description>
+			<ArcIsGlobal>0</ArcIsGlobal>
+			<Visible>1</Visible>
+		</Arc>
+	</Arcs>
+	<Events>
+		<Event ID="2" Locked="0">
+			<EventTitle>Levi burns down his house.</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 3 12 00 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="3" Locked="0">
+			<EventTitle>Levi found by Venatori in homeless shelter</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 3 16 08 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="4" Locked="0">
+			<EventTitle>Levi meets Dorian</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 3 16 12 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="5" Locked="0">
+			<EventTitle>Levi is assigned a mentor</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 3 16 14 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="6" Locked="0">
+			<EventTitle>Garrett approaches Levi for CCB</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 9 08 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="8" Locked="0">
+			<EventTitle>Levi sets traps in public spaces</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 9 14 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="9" Locked="0">
+			<EventTitle>First explosion goes off</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 9 16 10 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="16" Locked="0">
+			<EventTitle>Second explosion goes off</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 11 11 10 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="7" Locked="0">
+			<EventTitle>Third explosion goes of hurting Nick</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 13 10 25 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Before Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="15" Locked="0">
+			<EventTitle>Nox catches his dragon</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 13 13 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Lead Up</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="32" Locked="0">
+			<EventTitle>Dae'lin calls Nox in</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 13 15 35 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dae'lin</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="10" Locked="0">
+			<EventTitle>Nox meets Stella &amp; Aidan</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 09 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Lead Up</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="27" Locked="0">
+			<EventTitle>Nox arrives in NYC</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 11 35 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="33" Locked="0">
+			<EventTitle>Dae'lin pulls Nox into a meeting</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 12 35 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Dae'lin</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="34" Locked="0">
+			<EventTitle>Nox sees Dorian for the first time in years</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 12 37 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Love</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Dae'lin</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="26" Locked="0">
+			<EventTitle>Nox runs into Kai in the hallway</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 12 45 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Father</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="28" Locked="0">
+			<EventTitle>Nox goes looking for a place to blow off steam</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 12 55 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Love</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="35" Locked="0">
+			<EventTitle>Dae'lin confront Nox with the contract</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 14 14 15 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Breeding Program</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dae'lin</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="11" Locked="0">
+			<EventTitle>Nox has breakfast with Jason</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 08 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Lead Up</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="31" Locked="0">
+			<EventTitle>Nox visits Dr. Silverman</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 09 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Lead Up</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="29" Locked="0">
+			<EventTitle>Nox meets Levi</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 11 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="12" Locked="0">
+			<EventTitle>Nox jumps for Jason's class</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 12 10 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Lead Up</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="30" Locked="0">
+			<EventTitle>Levi sets traps around private areas</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 12 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="13" Locked="0">
+			<EventTitle>Dolores Vega dies in another explosion</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 15 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="14" Locked="0">
+			<EventTitle>Nox goes out to eat with Dorian</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 15 22 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Love</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="17" Locked="0">
+			<EventTitle>Nox runs into Kai outside the gym</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 08 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Father</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Kai</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="18" Locked="0">
+			<EventTitle>Levi sets very specific explosive locations (Kai,Emilio, Dorian &amp; Nox)</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 10 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="19" Locked="0">
+			<EventTitle>Explosions go off near the same time (Kai and Dorian)</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 12 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Father</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Kai</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="20" Locked="0">
+			<EventTitle>Nox heals Dorian</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 12 45 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Love</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="21" Locked="0">
+			<EventTitle>Nox chases Levi over the roof</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 16 13 55 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>In Story</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Levi</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="22" Locked="0">
+			<EventTitle>Asher sends Kaelin to tend to Nox</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 6 19 06 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Breeding Program</Label>
+			<Arc>Epilogue</Arc>
+			<Relationships></Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="23" Locked="0">
+			<EventTitle>Nox wakes up</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 21 15 30 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Main</Label>
+			<Arc>Epilogue</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="24" Locked="0">
+			<EventTitle>Nox confesses his &quot;love&quot; to Dorian</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 21 19 05 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Love</Label>
+			<Arc>Epilogue</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Dorian</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>2</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+		<Event ID="25" Locked="0">
+			<EventTitle>Asher manipulates it so Nox stays under 'suicide watch'</EventTitle>
+			<Completed>0</Completed>
+			<ShowTime>1</ShowTime>
+			<ShowDay>1</ShowDay>
+			<ShowMonth>1</ShowMonth>
+			<StartDate>1 2015 7 22 09 00 00</StartDate>
+			<Description></Description>
+			<Duration Unit="Second">0</Duration>
+			<Label>Breeding Program</Label>
+			<Arc>Epilogue</Arc>
+			<Relationships>
+				<Relationship>
+					<Entity>Nox</Entity>
+					<ParticipationLevel>1</ParticipationLevel>
+				</Relationship>
+			</Relationships>
+			<Tags></Tags>
+			<ExternalLinks></ExternalLinks>
+		</Event>
+	</Events>
+	<Labels>
+		<Label Name="Main">
+			<Color>0.501961 0.000000 0.003922 1.000000</Color>
+		</Label>
+		<Label Name="Love">
+			<Color>1.000000 0.333333 0.000000 1.000000</Color>
+		</Label>
+		<Label Name="Father">
+			<Color>0.000000 0.313726 0.360784 1.000000</Color>
+		</Label>
+		<Label Name="Breeding Program">
+			<Color>0.203922 0.470588 0.050980 1.000000</Color>
+		</Label>
+		<Label Name="Lead Up">
+			<Color>0.666667 0.333333 1.000000 1.000000</Color>
+		</Label>
+	</Labels>
+	<Tags></Tags>
+	<Narratives></Narratives>
+	<SavedFilters></SavedFilters>
+	<CurrentFilter>
+		<SavedFilter Name="AeonCurrent">
+			<BooleanLogic>AND</BooleanLogic>
+			<RequireAllEntities>1</RequireAllEntities>
+			<RequireAllTags>1</RequireAllTags>
+			<Labels></Labels>
+			<Arcs></Arcs>
+			<Entities></Entities>
+			<Tags></Tags>
+			<Completed>-1</Completed>
+		</SavedFilter>
+	</CurrentFilter>
+	<UIState>
+		<DictionaryItem>
+			<key>AeonAddEventShowDaySelected</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonAddEventShowMonthSelected</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonAddEventShowTimeSelected</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateFormatPreference</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateFormatString</key>
+			<value type="string">%d %B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDateOnlyFormatString</key>
+			<value type="string">%d %B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayAges</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayFontName</key>
+			<value type="string">Arial</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDisplayFontSize</key>
+			<value type="number">12</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawEventLinesRelationshipOff</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawEventLinesRelationshipOn</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawExternalLinkIcons</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonDrawLongEventsAtTop</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonEventFlow</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonEventLineBoldHighlight</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonExternalLinkIconSize</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFilterVisible</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingDayFormatString</key>
+			<value type="string">Day %z, %I:%M%p</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingDayNoTimeFormatString</key>
+			<value type="string">Day %z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingWeekDayFormatString</key>
+			<value type="string">%a %I:%M%p Week %Z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonFloatingWeekDayNoTimeFormatString</key>
+			<value type="string">%a Week %Z</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonGroupByArcs</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonIndicateEntityLifetime</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonInspectorVisible</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonInspectorWidth</key>
+			<value type="number">383</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonLargeTextSize</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMainScrollPosition</key>
+			<value type="number">35429</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMainScrollYPosition</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMonthBeforeDay</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonMonthOnlyFormatString</key>
+			<value type="string">%B %Y</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonNextEntityColour</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonNextLabelColour</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonRelationshipsHeight</key>
+			<value type="number">200</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonRelationshipsVisible</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonUnitsPerPixel</key>
+			<value type="number">33.489798</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWindowsMainWindowFrame</key>
+			<value type="rect">0.000000 23.000000 1600.000000 837.000000</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWindowsMainWindowMaximized</key>
+			<value type="number">1</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWordWrap</key>
+			<value type="number">0</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonWordWrapWidth</key>
+			<value type="number">300</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonYearOnlyFormatString</key>
+			<value type="string">%G</value>
+		</DictionaryItem>
+		<DictionaryItem>
+			<key>AeonZeroHourFormatString</key>
+			<value type="string">%x:%v:%u</value>
+		</DictionaryItem>
+	</UIState>
+</AeonTimeline>

@@ -1,0 +1,42 @@
+# Nox Sétanta
+
+Starting your story off with your birth is rather rhetorical, but I'm starting there anyway.  I was born to a human woman.  Her name was Leanna Sétanta.  Irish by birth, raised Venatori.  Her parents - her whole family were killed by a rogue werewolf.  She'd been away at a friends house and found them with their intenstines ripped out as the werewolf was gnawing away at her mother's face.  A kind hunter, yes roll your eyes now, a kind hunter finally tracked the werewolf down just as it was about to attack my mother.  She was 10.  He took her to New York City where she was raised to be a Venatori hunter.  
+
+She learned all there was to know about the Venatori and the supernatural world that had just shattered hers.  Leanna had a great prejudice against all things supernatural - including the Venatori.  She was human and the Venatori were anythng but human.  Some could weild an unseen magic, others could read your mind.  But every Venatori had super human strength, speed and agility on top of extra keen senses and the ability to heal almost anything.  The Venatori of course have their own weaknesses - it was almost like the venom of a vampire or werecreature were created just to kill a Venatori.  And for all we really know they were.  
+
+She became a hunter after her Ad Aetatem.  The singular event in any Venatori's life that granted a child permission to become an adult.  Without it you remained in the Academy a mere child unable to affect the world around you to any significant degree.  She went home to Colorado where she was found and she hunted creatures until the day she died.  But that is getting ahead of myself.  
+
+In the winter of '92 my father came to town searching a rogue vampire.  While there he met my mother.  From his recollection, she was a hot little number sitting at the bar.  He saw her tattoo thought she was proper Venatori and he didn't worry about the consequences of the night they had shared together.  If accidents happened they happened, he wasn't overly concerned with who he impregnated.  The more the merrier, the more prestige and status his family would gain. 
+
+Nine months later against all odds my mother gave birth to me.  My birth was highly improbably - specifically only 25% of human females give birth to living Minorem - lesser Venatori.  Of that 25%, only 0.5% result with both mother and child surviving.  My mother survived my birth - a fact she never let me forget.  The probability of my birth was 0.125%.  I was improbable, but the fact that I was born Magnus was 100%.  In that 0.125% births, 100% were natural born Magnus.  I was destined from the start to end up where I am today.
+
+Granted that's not the only reason I'm improbable, only the first indication of it.  Fate had decided I was much more than I seemed at first.
+
+My early childhood memories are pretty non-existant until I turned five.  I of course remember my mother and her absense.  I remember her anger and her smoking vile cigarettes.  She covered the stench of tabacco smoke with patchouli oil so it made her smell like dirt.  Neither were a pleasant smell to a child whose nose picked up nearly every scent imaginable. 
+
+I remember my nanny - Zula.  Her dark hair and the scarlet red dot in the middle of her forehead were the closest thing I had to comfort as a wee child.  My mother worked a lot, left me alone with Zula for days and sometime even weeks at a time.  But my first real memory is shortly after I turned five.  It was October, Halloween was coming up, I was going to be a dragon for it.  Zula was a dragon working in Boulder to gain cash to add to her horde.  As I think back on it, I remember seeing the shimmering pattern of her dragon form around her.  But it wasn't until recently that I even understood what I was looking at.  At 5 I only thought I was seeing things.  Dragons were everything to me then.  
+
+Yes, this is my brain - I'm not on drugs I swear.  I turned five, and shit hit the fan.  I sparked.  The memory and the fear are clear in my mind - I relive the moment in my nightmares.  My mother had come home from her latest mission.  Zula was ill, I had tried to make myself dinner.  I had tried to pour cereal into a bowl, but I over compensated and the entire box dumped into my tiny bowl.  Lucky Charms were everywhere.  I didn't clean up the mess before dumping a bit more out of my bowl and pouring milk into it.  I made a mess with that as well.  I'm pretty sure that I sloshed cereal and milk on the way to the couch in the living room too.
+
+I forgot to clean up the mess and when my mother came home she was furious.  She grabbed me by the arm and that's when it first happened.  That one little spark escaped my mind and I bent fire for the very first time.  The nearby curtain caught fire instantaeously.  I saw the patterns shift and form and I had no idea what was going on.  I was afraid - terrified.  
+
+My mother, the bitch that she was, shook me until I confessed to starting the fire.  She spit at me as she ran for the fire extinquisher.  Then she had the audacity to throw the empty tube at my head.  She yelled at me and sent me to my room where I cried myself to sleep hugging my little red dragon Mushu to me.
+
+My mother had a bag packed and was dragging me out the door to the airport early the next morning.  It was a long drive to the airport for a 5 year old.  I remember watching the purple snow capped mountains getting smaller and smaller the farther we went away.  Fear permeated my body.  I was lost in the terror of it all.
+
+My mother hated me.  Margo says she feared me more than hated me.  But I have my doubts, but we'll never know now.  It doesn't matter anyway.
+
+She took me on a plane and drugged me for peace and quiet.  And when my would-be rescuer was late she dug her nails into my shoulder and I cried to myself.  Dorian...  Dorian saved me that day.  When the world was tumbling around me Dorian was there to pull me to safety.  He helped me from my chair and I stumbled into him.  It was the first time I'd smelled the cinnamon and vanilla that I have come to know of him.  My peace.
+
+Dorian took me by the hand and lead me to the end of the terminal and down to the baggage claim area.  He picked up my superman suit case and pulled it behind him, all the while holding my tiny little hand as I hugged my little dragon to myself.  
+
+We got to a little red car and I remember giggling and then remembering I didn't like clowns, what if there were clowns in the back of the little red clown car.  But Dorian opened the hatch and releif flooded my body.  It's funny what you remember as a child.  I don't recall why clowns terrified me at a young age, I don't particularly like them now, but I don't go running screaming as I probably would have then.  
+
+The drive to the compound was long.  I was in awe of how flat things were.  It was something I would have to get used to over time.  But when we got into the City proper I was astounded by the shear height of the buildings.  I'd seen city skylines before but this was up close and personal.  I wondered about Spiderman and Batman and how they liked the heights.  But I couldn't do what they did.  I was terrified of heights.  You'd think living in the mountains it wouldn't bother me, but I was not a kid that ever climbed a tree, or got much more than a few feet off the ground.  Heights terrified me.  And if I'm completely honest with myself, they still do.
+
+Dorian parked the little red clown car in a reserved parking spot and got my bag out of the trunk and we went to wait for the elevator.  The silver doors reflected my distorted image back.  It dinged open and we stepped inside.  
+
+The walls were made of plate glass and we were surrounded by cement walls.  I was safe and secure until we were out of the basement levels.  And then the world opened up to me.  We rose and rose, higher and higher until the people looked like little ants on the ground.  I buried my face in Dorian's black slacks.  I wrapped my arms tightly around him and breathed in the scent of him.  It was calming but my fear rachetted higher each passing second.
+
+When the doors opened we were on the first floor of the dormitories -  my home for the next 13 years.  There were boys everywhere.  I heard too many noises.  There were so many smells present I felt sick to my stomach.  Dorian took my hand from around his legs and gently guided me out of the elevator.  Once on solid ground I felt better, but the smells and noises were still overwhelming.
+*

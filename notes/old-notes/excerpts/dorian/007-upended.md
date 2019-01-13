@@ -1,0 +1,1 @@
+Dorian's PoV of Nox's confession of love.

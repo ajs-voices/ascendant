@@ -1,0 +1,31 @@
+# Coming Home
+
+The mountain air was thin, the smell of evergreens were light on the air and Nox felt at home in the crisp night, he hadn't been home in well over a month. The stars shown bright over head, nothing like he'd ever seen growing up in New York City. But then again most people there didn't know what they were missing. Nox had. He'd missed the mountains. He had missed the snow and the open land for miles. He'd been back in the Rockies for three years now, staying away as he was instructed. Being what he was always meant to be - a hunter.
+
+Today was no different than any other. The cabin by the side of the lake that he called home, wasn't home anymore. It was nothing more than a place to stay between hunts. Home they say is where the heart is. And despite three years, in what he'd thought of as home for years upon years was no longer home, Nox missed the City. He missed the people and the crowded life. He was happy here in the mountains. But the people he had called family, they were all back in the City doing their thing. 
+
+Nox talked to J on a regular basis. J gossiped like a school girl. But if J hadn't told him, Dae'lin would have. Both of them insisting he talk to them at least once a month. J was still his best friend. Dae'lin would forever be the woman Nox would go to for instruction. She was his boss now, on top of being his former mentor growing up. To most Magnus rank was everything, Nox outranked Dae'lin. He outranked her father, the leader of the Venatori Magnus branch. But that was a technicality no one paid any mind to, even Nox himself. He obeyed like the good little solider that he was.
+
+It had been the leader of the Imperordo that had sent him away. Sent the strongest and the most gifted Cesari the Scrin had ever recorded away to hunt monsters in the middle of no where. And all because he had the ear of Dae'lin Rivera. At least that is how Nox understood it. He was a special case, people took an interest in him. Not always the interest that Nox cared about. It was better to be here than there. There he would be the subject to the animosity his father showed him, which meant almost the entire compound felt the same way. The relationship with his father had been non-existant before his Ad Aetatem, and now it was estranged at best.
+
+Nox looked up at the stars and wondered what his friends were all doing. As if the mere thought of their happenings heralded the call, Nox's phone rang. It sang a sweet little number that signified Dae'lin was calling. Nox answered with an energy he hadn't known he'd possessed after the night he'd had, "Dae'lin. How ever so good to hear your little voice."
+
+She snorted. It was not something becoming of the lady she pretended to be, but with Nox she was not a lady. She was all teacher - all the time, even now when she was miles away and no longer his mentor. "How'd the hunt go?"
+
+Nox grinned as he sat down on the cabin steps and took a deep breath, "Right as rain. Found the dragon lady.  She had a man and child with her.  I think he's half dragon - the kid that is.  All in custody, let someone else deal with them now."
+
+Nox could hear Dae'lin shaking her head, "You are so much trouble boy." Dae'lin sighed, Nox knew something was wrong. "I've been trying to reach you for two weeks.  Everyone tells me I need to keep you out there. Mark, my father, but Gary and I know we need you. Nox, there's trouble here, we need you and your unique abilities. Mark can't do this he's not a hunter, he can create whatever patterns we ask of him but he doesn't know what to look for. I need a hunter. I need you here."
+
+Nox stood up and kicked a nearby rock, "Mark told me to stay away Dae'lin. You know this. If he's not on board."
+
+Dae'lin interrupted, "Nox. I need you here. I assign hunters their posts. You are hereby reassigned here. I expect you here as soon as possible."
+
+"Alright. I'll be there tomorrow afternoon. You will pay for this Dae'lin, making me fly on a goddamned plane." Fear of flying. Fear made you do stupid things. Nox was good at conquering his fears or at least appearing to do so. But flying, flying was not something he had ever enjoyed. Nox remembered his first plane ride.
+
+He'd been five when Nox got on a plane from Boulder to NYC. He remembered only a small aspect of the flight itself, but he remembered the fear.  Fear of the unknown, but it permeated his whole body, and after 9/11 he was sure as hell not getting on a plane. But since then he'd taken a few more trips by plane. He hated every minute of it, but he'd do it again. But only because he had to. 
+
+Nox held his cell phone to his ear longer than necessary. He glanced at it and wanted to throw it down the mountain. He'd knew to stay away. Now he had to go deal with everything first hand. There were reasons for staying away. Nox knew them. Everyone knew why he stayed away. He stayed away so he could live his life for a few years with out the hordes of high end women wanting to do their duty.  Wanting to provide an heir to their line. As the second most powerful Magnus in the Imperordo Nox would be a prize stud back at the compound despite his despised status of being half human. Nox rolled his eyes as he walked back into the cabin. He was going to hate every moment of these women's attention. Genetics sucks!
+
+Nox packed his gear back up. Only a few items had found homes, but most things stayed in his bags waiting for the next hunt, the next drive to someplace else. But this cabin had been home for his first five years of his life, it would remain an escape for as long as his predictably short lived life would be. Before Nox walked out the door, he kissed the tips of his fingers and pressed it to the silver urn that sat on top of the mantle. "See ya round, Mom. " 
+
+Nox walked out the door and never looked back. There was nothing there but old memories. Memories that could have just been dreams. He was too young to remember them, too young to remember his mother. She'd died on one of his first mission. Died because she'd been stupid. And he had to live with that final sight for the rest of his days. He couldn't stay long here in that cabin in the woods. He'd already stayed too long, the heartache was starting to etch itself into his mind, body and soul. It would be good to go home - his true home.
