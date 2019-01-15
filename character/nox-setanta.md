@@ -48,11 +48,15 @@ Nox loves to cook, draw and dance.  He doesn't know how to sit still for long pe
 
 [Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
+**Sexuality**
+Nox prefers men over women but has no problem having a one night stand with a woman.  Nox enjoys being submissive but has no problem taking control over what he wants.  His only hard limit is abuse - no hitting, even a playful slap on the ass can send him into a bad place.  At 16 Nox was taken in by a sex therapist who helped him learn who he was through BDSM, but by 18 his 'dom' let him go as Nox was too 'alpha' and could cause other problems just being around. A knowing partner can start a scene with _Xiàjiàng_ and end a scene abruptly with _Shàngshēng_ (rise and drop in Chinese respectively).  Nox uses a two teired safe word, yellow for moments he's had enough of and is nearing an issued, and red to stop completely.  
+
 **Quirks, Habits, & Oddities** 
-Calls women Duckling - soft, cute and cuddly and usually in need of protection
+- Calls women Duckling - soft, cute and cuddly and usually in need of protection
+- Nox talks fast (NYC Manhattan accent)
 - exaggeration / tell stories that aren't true
 - smelling things
-- always has a hoodie with him no matter the weather
+- always has a hoodie/long sleeves with him no matter the weather
 - doesn't like to drive
 - afraid of heights/falling, flying and clowns(minor) amd needles
 - must have coffee first thing in the morning
@@ -99,7 +103,7 @@ Systematic                 | 0 | --+------- | 10 | Scatter-brained
 Happy-Go-Lucky             | 0 | --+------- | 10 | Serious
 
 **Possessions:**  
-See Pintrest Board
+See [Pintrest Board](https://www.pinterest.com/ajsvoices/all-things-nox/)  
 
 ### Typical Schedule
 
@@ -226,6 +230,7 @@ Nox's problem is that he has felt like an outcast and unwanted his whole life.
 **Solution:** 
 Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
 
-Mysteries: 
-Existing Conflicts: 
-Quest:
+### Enneagram Personality
+Personality: The Loyal Skeptic (#6)   
+Fundamental Fear: Fear of being without support  
+
