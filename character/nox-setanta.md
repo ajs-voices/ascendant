@@ -6,6 +6,19 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 **Mother:** Leanne Sétanta  
 **Father:** Kai Viddens  
 
+**Race:** Minorem (half human/half venatori) _[Ascendant]_  
+**Supernatural Abilities:** 
+- Magnus (Cesari) - NMC5
+- sees patterns/solves puzzles
+- intreped healing but prone to sickness 
+- superhuman senses but no superhuman reflexes/strength
+- _[strongest living Venator Magnus in generations - eclipses highest rated in any element]_
+- _[stronger than Venatori sense of smell due to being a theriantrophy carrier (wolf strain)]_
+- _[at birth infused with umbra(order) to become the third ascendant]_
+- _[read the language of the umbra]_
+- _[use and create rune stones]_
+- _[strong connection with the umbra resulting in strange magic around him]_
+
 ## Group Affiliations _work out his relationships_
 
 **The Venatori** 
@@ -45,8 +58,6 @@ Nox enjoys the company of either sex, but prefers men for anything more than a o
 His self centered, jovial, obnoxious behavior is a cover for the multitude of issues Nox has going through him at any given time.  Nox has been diagnosed with PTSD from a childhood event that even with help continually threatens his nightmares.  He has also been been diagnoses with [OCPD](https://www.healthline.com/health/obsessive-compulsive-personality-disorder).  Nox strives to be the best he can in everything, everything has to be orderly and structured - which includes his meals, and his daily life.  Any sort of change can set Nox off, though he is capable of adapting given enough time to the change.  Nox also has a fear of flying, heights/falling and needles and sometimes clowns. 
 
 Nox loves to cook, draw and dance.  He doesn't know how to sit still for long periods of time so he's never been a big movie/tv fan, he prefers to read if he has to sit still for long periods of time.
-
-[Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
 **Sexuality**
 Nox prefers men over women but has no problem having a one night stand with a woman.  Nox enjoys being submissive but has no problem taking control over what he wants.  His only hard limit is abuse - no hitting, even a playful slap on the ass can send him into a bad place.  At 16 Nox was taken in by a sex therapist who helped him learn who he was through BDSM, but by 18 his 'dom' let him go as Nox was too 'alpha' and could cause other problems just being around. A knowing partner can start a scene with _Xiàjiàng_ and end a scene abruptly with _Shàngshēng_ (rise and drop in Chinese respectively).  Nox uses a two teired safe word, yellow for moments he's had enough of and is nearing an issued, and red to stop completely.  
@@ -222,7 +233,9 @@ Mark Green attempted to send Nox away when he first left, but after he was relea
 
 ### After
 
-## Story Building Character
+## Character Sheet
+
+[Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
 **Problem:**  
 Nox's problem is that he has felt like an outcast and unwanted his whole life.
@@ -233,4 +246,18 @@ Nox's solution is two tiered - the first to push most people way by being fake/a
 ### Enneagram Personality
 [Personality](http://characterchange.com/9-character-types-that-will-improve-your-story/): The Loyal Skeptic (#6)   
 [Fundamental Fear](http://characterchange.com/9-fundamental-fears-that-motivate-your-characters/): Fear of being without support  
+
+### [The Four Cornerstores](http://www.writingeekery.com/four-cornerstones-of-strong-characters/)
+The Fear: Nox is afraid of being the same monster that his mother called him.    
+The Secret: Nox knows a lot more than he really lets on although a great deal of it has been blocked by an important event in his past.    
+The Flaw: Nox wants to save/help/protect everyone above himself.    
+The Quirk: Nox hates riding in elevators. (??)  
+
+### [The Four Pillars](http://www.writingeekery.com/strong-character-pillars/)
+The Desire: Nox desires to part of something - anything - unconditionally.    
+The Strength: Nox has the courage to keep on going even though he knows he's all alone.    
+The Inner Conflict: Nox desires to be a part of something, but he knows he's not worthy.
+The Character Theme: Despite himself Nox is much more than he thought he could ever be, he only needed to beleive in himself.    
+
+
 
