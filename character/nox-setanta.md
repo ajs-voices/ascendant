@@ -14,59 +14,44 @@ Nox is loud and it can come off as obnoxious. He is almost always ready with a j
 
 Nox beleives he is not heroic, but his actions speak louder than his words.
 
-Nox enjoys the company of either sex. Despite the numerous conquests he is alone.  In an attempt to keep people at a distance Nox flaunts the "I like men" side of his sexuality.   
+Nox enjoys the company of either sex, but prefers men for anything more than a one night stand. Despite the numerous conquests he is alone.  In an attempt to keep people at a distance Nox flaunts the "I like men" side of his sexuality.   
 
-His self centered, jovial, obnoxious behavior is a cover for the depressed, anxious and lonilness he feels inside.  
+His self centered, jovial, obnoxious behavior is a cover for the multitude of issues Nox has going through him at any given time.  Nox has been diagnosed with PTSD from a childhood event that even with help continually threatens his nightmares.  He has also been been diagnoses with [OCPD](https://www.healthline.com/health/obsessive-compulsive-personality-disorder).  Nox strives to be the best he can in everything, everything has to be orderly and structured - which includes his meals, and his daily life.  Any sort of change can set Nox off, though he is capable of adapting given enough time to the change.  Nox also has a fear of flying, heights/falling and needles and sometimes clowns. 
 
-He has a fear of flying, heights/falling and needles and sometimes clowns.  Nox has a mild case of OCD. He uses the OCD to cope with his other issues.  He eats nearly the same thing at the same times, he has a set schedule, his routine is nearly unchanged since he was about 7 years old.
+Nox loves to cook and dance.  He doesn't know how to sit still for long periods of time so he's never been a big movie/tv fan, he prefers to read if he has to sit still for long periods of time.
 
-Personality Type: INTJ-T (The Architect) - ?? http://www.16personalities.com/intj-personality
+[Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
-INTP - THE THINKER
-Introverted - Intuition - Thinking - Perceiving
-https://memorado.com/pti_test
-
-Problem:
+**Problem:**  
 Nox's problem is that he has felt like an outcast and unwanted his whole life.
 
-Solution:
+**Solution:** 
 Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
 
-PRIMARY MOTIVATOR
-Primary Motivator - Domesticity, Play,  Education, Adventure, Service, Achievement, Beneficence
-Emotional Disposition - Joyful on the surface (hiding melancholy underneath)
-Moodiness - even-tempered
+**[Ash's Personality Guide](https://www.ashami.com/rpg/)**
 
-Core Traits
-Outlook - confident
-Integrity - pragmatic
-Impulsiveness - Spontaneous
-Boldness - daring
-Flexibility - adaptable
-Affinity - self absorbed
-Comportment - charming
-Interactivity - entertaining
-Disclosure - evasive
-Conformity - rebellious
-Sense of Humor - dry
+Primary Motivator: Balance  
+Emotional Disposition: Anxious  
+Moodiness: Labile (easily changed)  
+Outlook: Pessimistic  
+Integrity: Conscientious  
+Impulsiveness: Controlled  
+Boldness: Intrepid  
+Agreeablenss: Agreeable  
+Interactivity: Engaging  
+Conformity:  Heterodox  
+Sense of Humor: Dry  
 
-Sexuality
-Sexual Orientation - bisexual
-Libido - lascivious
-Sexual Expressiveness - flirtatious
-Sexual Expressive Style - romantic
-Openness to sexual experience - Moderate
-Promiscuous - non-committal
-Tastes - open minded - try it once then decide philosophy - can't deal with 'hitting' or pain in his sex
+**Group Affliations**  
+The Venatori  
+Adherence: agnostic  
+Tolerance: inclusive  
+Expression of Beliefs: occassional  
+Converting others: never  
+Attitude: humble  
 
-RELIGION & SPIRITUALITY
-Adherence - no religion
-
-Other
-* Calls women Duckling - soft, cute and cuddly and usually in need of protection
-* Calls men Cowboy
-
-Quirks, Habits, & Oddities
+**Quirks, Habits, & Oddities** 
+Calls women Duckling - soft, cute and cuddly and usually in need of protection
 - exaggeration / tell stories that aren't true
 - smelling things
 - always has a hoodie with him no matter the weather
