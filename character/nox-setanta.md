@@ -6,6 +6,20 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 **Mother:** Leanne Sétanta  
 **Father:** Kai Viddens  
 
+## Group Affiliations _work out his relationships_
+
+**The Venatori** 
+
+**Human**  
+
+**Manhattan Werewolf Pack**  
+
+**Lone Wolf Pack**  
+
+**Il Cane**  
+
+**V&M/CCB**  
+
 ## Description
 
 ### Physical
@@ -34,26 +48,6 @@ Nox loves to cook, draw and dance.  He doesn't know how to sit still for long pe
 
 [Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
-**Problem:**  
-Nox's problem is that he has felt like an outcast and unwanted his whole life.
-
-**Solution:** 
-Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
-
-**Traits** (source: [Ash's Personality Guide](https://www.ashami.com/rpg/))
-
-Primary Motivator: Balance  
-Emotional Disposition: Anxious  
-Moodiness: Labile (easily changed)  
-Outlook: Pessimistic  
-Integrity: Conscientious  
-Impulsiveness: Controlled  
-Boldness: Intrepid  
-Agreeablenss: Agreeable  
-Interactivity: Engaging  
-Conformity:  Heterodox  
-Sense of Humor: Dry  
-
 **Quirks, Habits, & Oddities** 
 Calls women Duckling - soft, cute and cuddly and usually in need of protection
 - exaggeration / tell stories that aren't true
@@ -72,66 +66,60 @@ Calls women Duckling - soft, cute and cuddly and usually in need of protection
 - compensates his issues with a rigid schedule of things (OCD in nature) including (but not limited to) his daily life, what he eats, when he works out, etc
 - insomnia due to excessive nightmares from childhood trauma
 
+TRAITS                     |   | SCALE      |    | TRAITS
+---------------------------|---|------------|----|---------------------------
+Warm                       | 0 | --+------- | 10 | Cold
+Outgoing                   | 0 | -+-------- | 10 | Shy
+Spender                    | 0 | --------+- | 10 | Saver
+Optimist                   | 0 | -------+-- | 10 | Pessimist
+Easily Provoked            | 0 | -----+---- | 10 | Easy-Going
+Tough-minded               | 0 | ------+--- | 10 | Tender-hearted
+Leader                     | 0 | --+------- | 10 | Follower
+Arrogant                   | 0 | -+-------- | 10 | Humble
+Happy                      | 0 | -------+-- | 10 | Discontent
+Impulsive                  | 0 | -+-------- | 10 | Thoughtful
+Conventional               | 0 | ------+--- | 10 | Radical Thinker
+Emotional                  | 0 | ---+------ | 10 | Rarely shows emotion
+Perfectionist              | 0 | +--------- | 10 | Sloppy
+Risk-taker                 | 0 | -+-------- | 10 | Cautious
+Charismatic                | 0 | --+------- | 10 | Aggravates People
+Late                       | 0 | --------+- | 10 | Early for Appointments
+Efficient                  | 0 | ---+------ | 10 | Inefficient
+Team-oriented              | 0 | -------+-- | 10 | Prefers to work alone
+Quiet                      | 0 | ------+--- | 10 | Loud
+Subtle                     | 0 | --------+- | 10 | Direct
+Selfish                    | 0 | -+-------- | 10 | Selfless
+Go-getter                  | 0 | -----+---- | 10 | Lazy
+Heroic                     | 0 | -+-------- | 10 | Cowardly
+Takes things at face-value | 0 | -------+-- | 10 | Reads between the lines
+Tries to Please People     | 0 | ---------+ | 10 | Doesn’t Care What Others Think
+Responsible                | 0 | ---+------ | 10 | Irresponsible
+Enthusiastic               | 0 | ---+------ | 10 | Unexcitable
+Systematic                 | 0 | --+------- | 10 | Scatter-brained
+Happy-Go-Lucky             | 0 | --+------- | 10 | Serious
 
-
-Mysteries: 
-Existing Conflicts: 
-Quest:
-
-Personality Traits
-TRAITS SCALE TRAITS
-Warm                        0 ----+----- 10 Cold
-Outgoing                    0 -+-------- 10 Shy
-Spender                     0 --+------- 10 Saver
-Optimist                    0 -----+---- 10 Pessimist
-Easily Provoked             0 -----+---- 10 Easy-Going
-Tough-minded                0 ------+--- 10 Tender-hearted
-Leader                      0 --+------- 10 Follower
-Arrogant                    0 -+-------- 10 Humble
-Happy                       0 -------+-- 10 Discontent
-Impulsive                   0 -+-------- 10 Thoughtful
-Conventional                0 ------+--- 10 Radical Thinker
-Emotional                   0 ---+------ 10 Rarely shows emotion
-Perfectionist               0 --+------- 10 Sloppy
-Risk-taker                  0 -+-------- 10 Cautious
-Charismatic                 0 ----+----- 10 Aggravates People
-Late                        0 ------+--- 10 Early for Appointments
-Efficient                   0 ---+------ 10 Inefficient
-Team-oriented               0 -------+-- 10 Prefers to work alone
-Quiet                       0 ------+--- 10 Loud
-Subtle                      0 ------+--- 10 Direct
-Selfish                     0 -+-------- 10 Selfless
-Go-getter                   0 -----+---- 10 Lazy
-Heroic                      0 -+-------- 10 Cowardly
-Takes things at face-value  0 -------+-- 10 Reads between the lines
-Tries to Please People      0 ---------+ 10 Doesn’t Care What Others Think
-Responsible                 0 ---+------ 10 Irresponsible
-Enthusiastic                0 ---+------ 10 Unexcitable
-Systematic                  0 --+------- 10 Scatter-brained
-Happy-Go-Lucky              0 --+------- 10 Serious
-
-Possessions:
+**Possessions:**  
 See Pintrest Board
 
 ### Typical Schedule
 
 **Everyday:**
-4am wake up
-4:30 gym workout
-5:45 shower
-6am breakfast
-11:30 - 12:30 lunch
-6pm evening run
-7:30pm dinner
-11pm bedtime
+4am wake up  
+4:30 gym workout  
+5:45 shower  
+6am breakfast  
+11:30 - 12:30 lunch  
+6pm evening run  
+7:30pm dinner  
+11pm bedtime  
 
-Monday: 9:30am Therapy, dinner with Ant and crew (breakfast)
-Tuesday: afternoon coffee with one of dom's lackies
-Wednesday: V&M in the morning
-Thursday: drinks at night with Adrian
-Friday: late night feeding for Armande
-Saturday: dance night, brunch with Kai, afternoon spar with Kai
-Sunday: grocery shopping, lunch out, poker night with Ant and crew
+Monday: 9:30am Therapy, dinner with Ant and crew (breakfast)  
+Tuesday: afternoon coffee with one of dom's lackies  
+Wednesday: V&M in the morning  
+Thursday: drinks at night with Adrian  
+Friday: late night feeding for Armande  
+Saturday: dance night, brunch with Kai, afternoon spar with Kai  
+Sunday: grocery shopping, lunch out, poker night with Ant and crew  
 
 Monthly meetup with Max and Drew (and others) at a boxing gym
 
@@ -229,3 +217,15 @@ Mark Green attempted to send Nox away when he first left, but after he was relea
 ### The Bringer of Darkness
 
 ### After
+
+## Story Building Character
+
+**Problem:**  
+Nox's problem is that he has felt like an outcast and unwanted his whole life.
+
+**Solution:** 
+Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
+
+Mysteries: 
+Existing Conflicts: 
+Quest:
