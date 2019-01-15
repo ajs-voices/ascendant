@@ -231,6 +231,6 @@ Nox's problem is that he has felt like an outcast and unwanted his whole life.
 Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
 
 ### Enneagram Personality
-Personality: The Loyal Skeptic (#6)   
-Fundamental Fear: Fear of being without support  
+[Personality](http://characterchange.com/9-character-types-that-will-improve-your-story/): The Loyal Skeptic (#6)   
+[Fundamental Fear](http://characterchange.com/9-fundamental-fears-that-motivate-your-characters/): Fear of being without support  
 
