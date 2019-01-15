@@ -8,6 +8,18 @@ aka The Third Ascendant, The Bringer of Darkness, The King of New York, Mors Pra
 
 ## Description
 
+### Physical
+
+Nox is 6’0″ weighing approximately 145 lbs with a hard to maintain thin athletic build. He has chestnut brown hair with chocolate brown eyes framed with a thick set of eye lashes any woman would die for. He tends to have a few days growth beard mustache carefully managed. Nox almost always has a playful grin plastered on his lips, like everything’s a joke to him.
+
+Nox tends to wear eye liner and dyes the tips of his hair in bright colors with matching finger-nail polish. His favorite colors being sapphire blue, crimson red and orange. He has been known to wear flavored lip gloss.
+
+He likes to wear t-shirts with obnoxious sayings, he thinks they are funny and doesn’t care if you are offended by them. He always wears a hoodie (pull over or zip up). Nox’s hands with his long slender fingers are the most defined feature he possess other than his eyes and smile.
+
+Nox’s body is host to a few scars he’s more than willing to tell you a false tale about how he got them. (A vampire bite on his right forearm. Claw marks on his left rib cage from a were-bear, a slash across his left cheek from the dagger of a ghost possessed human, burn on his right leg from knee to ankle from a dragon’s flame) And one set he doesn’t want to talk about and usually covers up at all times: a series of slash marks across his back from early childhood abuse. He tends to hide these scares underneath clothing or a personal veil he learned from his abuser.
+
+Nox has a delicate black ink dragon he calls 'Mushu' at the back of his neck just below the base of his skull. During his Ad Aetatem Nox received his tribal tattoo – a pair of crossed swords at his right temple.
+
 ### Personality
 
 Nox is loud and it can come off as obnoxious. He is almost always ready with a joke or a one liner. He is self-centered, his charm and his attitude tend to get him noticed and he appears to thrive on being center stage. His attitude is infectious but it is also over-the-top and most people tend to take it the wrong way.  He makes more enemies than friends. 
@@ -18,7 +30,7 @@ Nox enjoys the company of either sex, but prefers men for anything more than a o
 
 His self centered, jovial, obnoxious behavior is a cover for the multitude of issues Nox has going through him at any given time.  Nox has been diagnosed with PTSD from a childhood event that even with help continually threatens his nightmares.  He has also been been diagnoses with [OCPD](https://www.healthline.com/health/obsessive-compulsive-personality-disorder).  Nox strives to be the best he can in everything, everything has to be orderly and structured - which includes his meals, and his daily life.  Any sort of change can set Nox off, though he is capable of adapting given enough time to the change.  Nox also has a fear of flying, heights/falling and needles and sometimes clowns. 
 
-Nox loves to cook and dance.  He doesn't know how to sit still for long periods of time so he's never been a big movie/tv fan, he prefers to read if he has to sit still for long periods of time.
+Nox loves to cook, draw and dance.  He doesn't know how to sit still for long periods of time so he's never been a big movie/tv fan, he prefers to read if he has to sit still for long periods of time.
 
 [Personality Type](https://memorado.com/pti_test): INTP - THE THINKER
 
@@ -28,7 +40,7 @@ Nox's problem is that he has felt like an outcast and unwanted his whole life.
 **Solution:** 
 Nox's solution is two tiered - the first to push most people way by being fake/always joking etc., the second is when he does let you in he becomes overly attached.
 
-**[Ash's Personality Guide](https://www.ashami.com/rpg/)**
+**Traits** (source: [Ash's Personality Guide](https://www.ashami.com/rpg/))
 
 Primary Motivator: Balance  
 Emotional Disposition: Anxious  
@@ -41,14 +53,6 @@ Agreeablenss: Agreeable
 Interactivity: Engaging  
 Conformity:  Heterodox  
 Sense of Humor: Dry  
-
-**Group Affliations**  
-The Venatori  
-Adherence: agnostic  
-Tolerance: inclusive  
-Expression of Beliefs: occassional  
-Converting others: never  
-Attitude: humble  
 
 **Quirks, Habits, & Oddities** 
 Calls women Duckling - soft, cute and cuddly and usually in need of protection
@@ -68,8 +72,7 @@ Calls women Duckling - soft, cute and cuddly and usually in need of protection
 - compensates his issues with a rigid schedule of things (OCD in nature) including (but not limited to) his daily life, what he eats, when he works out, etc
 - insomnia due to excessive nightmares from childhood trauma
 
-Hobbies & Enjoyments - combat/magic training/practice, hunting, dancing, sky jumping, enjoys a beer or three, drawing
-Topics of Conversation:  Sex, Hunts, the Supernatural, Patterns
+
 
 Mysteries: 
 Existing Conflicts: 
@@ -110,7 +113,7 @@ Happy-Go-Lucky              0 --+------- 10 Serious
 Possessions:
 See Pintrest Board
 
-## Nox's Typical Schedule:
+### Typical Schedule
 
 **Everyday:**
 4am wake up
@@ -122,29 +125,15 @@ See Pintrest Board
 7:30pm dinner
 11pm bedtime
 
-**Weekdays:**
-8am - 9am Advanced Patterns (class 1) _after LCP_
-1pm - 2pm Fire basics _after LCP_
-2pm - 3pm Fire basics (firestarters) _after LCP_
+Monday: 9:30am Therapy, dinner with Ant and crew (breakfast)
+Tuesday: afternoon coffee with one of dom's lackies
+Wednesday: V&M in the morning
+Thursday: drinks at night with Adrian
+Friday: late night feeding for Armande
+Saturday: dance night, brunch with Kai, afternoon spar with Kai
+Sunday: grocery shopping, lunch out, poker night with Ant and crew
 
-
-**Monday:**
-9:30am - 10:30 Therapy Session
-
-**Tuesday:**
-4pm - 6pm Advanced Patterns (adult class 1) _after LCP_
-
-**Wednesday:**
-
-**Thursday:**
-4pm - 6pm Advanced Patterns (adult class 1) _after LCP_
-
-**Friday:**
-
-**Saturday:**
-
-**Sunday:**
-9:30am - 10:30 Grocery Shopping
+Monthly meetup with Max and Drew (and others) at a boxing gym
 
 ### Meal Plan
 
@@ -186,19 +175,6 @@ Saturday
 Always on hand for quick lunch
 * Grilled Chicken salad on rye
 * Extra eggs and bacon
-
-
-### Physical
-
-Nox is 6’0″ weighing approximately 145 lbs with a hard to maintain thin athletic build. He has chestnut brown hair with chocolate brown eyes framed with a thick set of eye lashes any woman would die for. He tends to have a few days growth beard mustache carefully managed. Nox almost always has a playful grin plastered on his lips, like everything’s a joke to him.
-
-Nox tends to wear eye liner and dyes the tips of his hair in bright colors with matching finger-nail polish. His favorite colors being sapphire blue, crimson red and orange. He has been known to wear flavored lip gloss.
-
-He likes to wear t-shirts with obnoxious sayings, he thinks they are funny and doesn’t care if you are offended by them. He always wears a hoodie (pull over or zip up). Nox’s hands with his long slender fingers are the most defined feature he possess other than his eyes and smile.
-
-Nox’s body is host to a few scars he’s more than willing to tell you a false tale about how he got them. (A vampire bite on his right forearm. Claw marks on his left rib cage from a were-bear, a slash across his left cheek from the dagger of a ghost possessed human, burn on his right leg from knee to ankle from a dragon’s flame) And one set he doesn’t want to talk about and usually covers up at all times: a series of slash marks across his back from early childhood abuse. He tends to hide these scares underneath clothing or a personal veil he learned from his abuser.
-
-Nox has a delicate black ink dragon he calls 'Mushu' at the back of his neck just below the base of his skull. During his Ad Aetatem Nox received his tribal tattoo – a pair of crossed swords at his right temple.
 
 ## History
 
